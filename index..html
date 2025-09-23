@@ -1,0 +1,37 @@
+
+
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Personal Portfolio Chatbot</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <div class="card" role="region" aria-label="Portfolio chatbot">
+      <div class="header">
+        <div class="avatar" aria-hidden="true" id="avatar"><img src="images/me-half.jpg" class="avatar-img"></div>
+        <div class="title">
+          <strong id="botName">Vinothagan's Chatbot</strong>
+          <small id="botSub">My quick portfolio assistant</small>
+        </div>
+      </div>
+
+      <div id="messages" class="messages" aria-live="polite"></div>
+
+      <div class="composer" role="form" aria-label="Message composer">
+        <div class="input">
+          <input id="userInput" placeholder="Type your question here..." aria-label="Type your message" autocomplete="off" />
+        </div>
+        <button id="sendBtn" class="btn-send" aria-label="Send message">Send</button>
+      </div>
+    </div>
+  </div>
+
+  <script src="script.js">
+    
+  </script>
+</body>
+</html>
