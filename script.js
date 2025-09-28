@@ -42,7 +42,7 @@
                   -Vidtube - Youtube clone website <a href='https://vidtube-new.netlify.app/'>see</a>
 
                   • Developed a response video streaming website simulating youtube’s core features using JS , Tailwinds CSS.`,
-        contact: "📞 Email: vinothagan2004@gmail.com\n📱 Phone: +91 **********\n🔗 LinkedIn: <a href=''>linkedin.com/in/vinothagan</a>",
+        contact: "📞 Email: vinothagan2004@gmail.com\n📱 Phone: +91 **********\n🔗 LinkedIn: <a href='https://www.linkedin.com/in/vinothagan-g-528831330?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app'>linkedin.com/in/vinothagan</a>",
         education: `Bachelor of Business Administration (BBA)  
                   Bharathidasan University, Tiruchirappalli, Tamilnadu, India  | 2021-2024
                   • Specialization in Business Administration and Management.
